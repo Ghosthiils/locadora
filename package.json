@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "init": "^0.1.2",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.18.2"
+  },
+  "name": "locadora",
+  "version": "1.0.0",
+  "description": "página de locadora de veículos",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gutoffline/locadora.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/gutoffline/locadora/issues"
+  },
+  "homepage": "https://github.com/gutoffline/locadora#readme"
+}
